@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# dataset
-
-- 保育所待機児童数の推移.tsv- 保育所等の設置状況.tsv- 保育所入所申込率.tsv
-
-東京都発表の「保育サービス利用状況等について」にて公表されているPDFからtsvファイルを作成。
-http://www.fukushihoken.metro.tokyo.jp/kodomo/hoiku/hoikuriyoujyoukyou.html
-=======
 # データセット
 
 ## 保育園関係
@@ -26,4 +18,3 @@ http://www.fukushihoken.metro.tokyo.jp/kodomo/hoiku/hoikuriyoujyoukyou.html
 厚生労働省から「社会生活統計指標－都道府県の指標－」として公表されているものから、「基礎データ／J．福祉・社会保障／9 児童福祉」を抜粋してtsvファイル化した。
 
 http://www.e-stat.go.jp/SG1/estat/List.do?bid=000001068039&cycode=0
->>>>>>> f11b9176b02ace9f32680a63a781700de8ec187b
